@@ -1,0 +1,7 @@
+{
+  "name": "Library Management ",
+  "description": "An all-in-one digital library suite with AI-powered cataloging, circulation tracking, and literary analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
